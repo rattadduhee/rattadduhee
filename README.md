@@ -5,7 +5,7 @@
 I want to continue to grow by reading the flow of technology.</p>
 <br><br>
 <h2 align="center">🛠 Tech Stack 🛠</h2>
-<p align="center">My main skills are <span style="font-weight: 500;background-color:#FFF4B0;">Python</span> and <span style="font-weight: 500;background-color:#FFF4B0">MySQL</span>. <br><br></p>
+<p align="center">My main skills are <b>Python</b> and <b>MySQL</b>. <br><br></p>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
