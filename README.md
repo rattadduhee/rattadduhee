@@ -1,5 +1,4 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=F4BBBB&height=300&section=header&text=JooHee%20Shin&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=300&section=header&text=JooHee%20Shin&fontSize=90&fontColor=FFFFFF)
 
 <!--
 **rattadduhee/rattadduhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
