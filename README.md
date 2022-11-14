@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=300&section=header&text=JooHee%20Shin&fontSize=90&fontColor=FFFFFF)
-<h3 align="center"> Hi, I'm a growing data scientist. 👋</h3><br>
+<h3 align="center"> Hi, I'm a growing data scientist. 👋</h3>
 <p align="center">I'm a persistent person, studying hard for be a good data scientist.<br>
 I want to continue to grow by reading the flow of technology.</p>
 <br>
@@ -22,7 +22,7 @@ I want to continue to grow by reading the flow of technology.</p>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <!-- ![rattadduhee's github stats](https://github-readme-stats.vercel.app/api?username=rattadduhee&show_icons=true)
 [![rattadduhee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rattadduhee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rattadduhee) -->
-<br></div>
+<br><br></div>
 <!--
 **rattadduhee/rattadduhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
