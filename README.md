@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=300&section=header&text=JooHee%20Shin&fontSize=90&fontColor=FFFFFF)
 <br><br>
-<h3 align="center"> Hi, I'm JooHee Shin, a growing data scientist. 👋 </h3><br>
+<h2 align="center"> Hi, I'm JooHee Shin, a growing data scientist. 👋 </h2><br>
 <p align="center">I'm a persistent person, studying hard for be a good data scientist.<br>
 I want to continue to grow by reading the flow of technology.</p>
 <br><br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">My main skills are <b>Python</b> and <b>MySQL</b>. <br></p>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
+<p align="center">My main skills are <p style="font-weight: 500;background-color:#FFF4B0">Python</p> and <p style="font-weight: 500;background-color:#FFF4B0">MySQL</p>. <br><br></p>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
