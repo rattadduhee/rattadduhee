@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=300&section=header&text=JooHee%20Shin&fontSize=90&fontColor=FFFFFF)
 <br><br>
-<h2 align="center"> Hi There! 👋 I'm  </h2>
+<h3 align="center"> Hi There! 👋 I'm JooHee Shin who dreams of becoming a data scientist. </h3>
 <p align="center">My main skills are Python and MySQL. <br>
-I'm a persistent person, who study hard for be a good data scientist.<br>
-As a data scientist who finds meaning in the amount of data, I want to continue to grow by reading the flow of technology.</p>
+I'm a persistent person, studying hard for be a good data scientist.<br>
+As a data scientist who finds meaning in the amount of data,<br>I want to continue to grow by reading the flow of technology.</p>
 <br><br>
-<h2 align="center">🛠 Tech Stack 🛠</h2>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
