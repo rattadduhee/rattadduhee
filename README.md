@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=300&section=header&text=JooHee%20Shin&fontSize=90&fontColor=FFFFFF)
 <br><br>
-<h3 align="center"> Hi 👋 I'm a growing data scientist. </h3><br>
+<h3 align="center"> Hi, I'm a growing data scientist. 👋</h3><br>
 <p align="center">I'm a persistent person, studying hard for be a good data scientist.<br>
 I want to continue to grow by reading the flow of technology.</p>
 <br><br>
