@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=300&section=header&text=JooHee%20Shin&fontSize=90&fontColor=FFFFFF)
-<br><br>
+<br>
 <h3 align="center"> Hi, I'm a growing data scientist. 👋</h3><br>
 <p align="center">I'm a persistent person, studying hard for be a good data scientist.<br>
 I want to continue to grow by reading the flow of technology.</p>
-<br><br>
+<br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">My main skills are <b>Python</b> and <b>MySQL</b>. <br><br></p>
 <div align="center">
@@ -21,10 +21,8 @@ I want to continue to grow by reading the flow of technology.</p>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<br><br><br><br>
-![rattadduhee's github stats](https://github-readme-stats.vercel.app/api?username=rattadduhee&show_icons=true)
-[![rattadduhee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rattadduhee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rattadduhee)
+<!-- ![rattadduhee's github stats](https://github-readme-stats.vercel.app/api?username=rattadduhee&show_icons=true)
+[![rattadduhee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rattadduhee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rattadduhee) -->
 </div>
 <!--
 **rattadduhee/rattadduhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
