@@ -2,7 +2,7 @@
 <h3 align="center"> Hi, I'm a growing data scientist. 👋</h3>
 <p align="center">I'm a persistent person, studying hard for be a good data scientist.<br>
 I want to continue to grow by reading the flow of technology.</p>
-<br>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">My main skills are <b>Python</b> and <b>MySQL</b>.<br></p>
 <div align="center">
